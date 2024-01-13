@@ -1,0 +1,25 @@
+
+
+
+.nav__button {
+  background-color: #fb4b4d;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 44px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21.6px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #fff;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+
+.nav__button:hover {
+  background-color: #000;
+  transition: all 0.3s ease;
+}
